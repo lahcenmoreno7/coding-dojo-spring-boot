@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon": 4.4792,
+        "lat": 51.9225
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 275.1,
+        "pressure": 1025,
+        "humidity": 75,
+        "temp_min": 274.82,
+        "temp_max": 275.37,
+        "feels_like": 269.6
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.63,
+        "deg": 190
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1610792598,
+    "sys": {
+        "type": 1,
+        "id": 1541,
+        "country": "NL",
+        "sunrise": 1610782906,
+        "sunset": 1610812893
+    },
+    "id": 2747891,
+    "name": "Rotterdam",
+    "cod": 200
+}

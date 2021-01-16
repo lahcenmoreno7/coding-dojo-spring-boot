@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS weather(
+   ID INT PRIMARY KEY  NOT NULL,
+   city VARCHAR(255) NOT NULL,
+   country  VARCHAR(255) NOT NULL,
+   temperature NUMERIC (5, 2)
+);
+
